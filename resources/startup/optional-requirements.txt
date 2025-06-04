@@ -1,7 +1,6 @@
 # Required only for Local Deploys
 # ------------------------------------------------------ #
 
-akipy
 apscheduler
 aiohttp
 bs4
